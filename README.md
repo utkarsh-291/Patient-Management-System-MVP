@@ -28,7 +28,7 @@ A full-stack Patient Management System (PMS) designed to streamline hospital ope
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/utkarsh-291/Patient-Management-System-MVP-.git
+git clone https://github.com/utkarsh-291/Patient-Management-System-MVP.git
 ```
 ### 2. Backend Setup (Django)
 ```bash
